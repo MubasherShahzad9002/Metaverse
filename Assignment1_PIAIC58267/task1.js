@@ -1,0 +1,1 @@
+console.log("Welcome To JavaScript Land.\nHappy Coding.");
